@@ -1,2 +1,2 @@
 # Online-Car-Rental-system
-Online car rental system (python,numoy,pandas)
+Online car rental system (python,numpy,pandas)
